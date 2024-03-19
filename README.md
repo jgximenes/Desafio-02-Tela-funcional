@@ -2,4 +2,4 @@
 Este é o projeto de desenvolvimento de uma tela funcional do desafio 02
 
 LINK do site
-https://majestic-narwhal-f9a87e.netlify.app/
+https://astounding-llama-b59e67.netlify.app/
